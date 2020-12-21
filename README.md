@@ -1,5 +1,5 @@
 # Face-Anti-Spoofing-using-Gamma-and-Depth-map
-Face Anti-Spoofing using Gamma and Depth map
+
 1.训练模型：FAS_train.sh
 涉及train_model.py，Load_data_train.py，Load_data_test.py，Load_data_test1.py等
 
