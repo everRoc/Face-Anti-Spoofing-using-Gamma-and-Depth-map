@@ -1,0 +1,1 @@
+python model_test.py --path "E:/dataset/testoulu/B_test" --predictionFile "prediction.csv"
